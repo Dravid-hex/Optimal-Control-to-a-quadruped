@@ -368,7 +368,7 @@ controllers on the same trajectory.
 
 ## 7. Reproducibility
 
-- **Python**: 3.12 (project venv at `.venv/`, do not use conda).
+- **Python**: 3.12 (project venv at `.venv/`).
 - **Key packages** (already installed in `.venv`):
   - `mujoco 3.8`, `gym-quadruped 1.1.2`
   - `jax 0.10`, `jaxlib 0.10`, `jax-cuda12-plugin 0.10`
