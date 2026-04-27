@@ -5,8 +5,6 @@ in MuJoCo, using the PyMPC controller stack. The robot follows a predefined
 ordered list of `(x, y)` goals using a **rotate-then-advance** strategy with an
 adaptive, predictive stability supervisor.
 
-This document also serves as the project report (see
-[Project report](#project-report) at the bottom).
 
 ---
 
