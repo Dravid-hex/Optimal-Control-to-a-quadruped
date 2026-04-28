@@ -1,5 +1,12 @@
 # Quadruped-PyMPC — Waypoint Trajectory Tracking
 
+
+David Alejandro Soni Cuevas 		A01571777
+David Gilberto Lomelí Leal 		A01571193
+Abraham de Jesus Maldonado Mata	 A00838581
+Irvin David Ornelas Garcia 		A00839065
+Carla Elizabeth Regalado Luna		A00837070
+
 Waypoint-based trajectory generation and tracking for the Unitree Go2 quadruped
 in MuJoCo, using the PyMPC controller stack. The robot follows a predefined
 ordered list of `(x, y)` goals using a **rotate-then-advance** strategy with an
