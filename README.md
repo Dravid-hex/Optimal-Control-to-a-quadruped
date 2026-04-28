@@ -364,6 +364,9 @@ controllers on the same trajectory.
 | Performance evaluation and comparison           | Metric set, recording pipeline, and comparison protocol described in §5; HDF5 capture already wired                    |
 | Documentation and GitHub presentation           | This README is the report; layout in §2; configuration knobs centralized in `config.py`; quickstart in §1              |
 
+###6.7 Plots
+All the plots can be found in 'plots"
+
 ---
 
 ## 7. Reproducibility
