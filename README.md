@@ -1,7 +1,7 @@
 # Quadruped-PyMPC — Waypoint Trajectory Tracking
 
 
-David Alejandro Soni Cuevas 		A01571777
+David Alejandro Soni Cuevas 		A01571777<br>
 David Gilberto Lomelí Leal 		A01571193
 Abraham de Jesus Maldonado Mata	 A00838581
 Irvin David Ornelas Garcia 		A00839065
