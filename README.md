@@ -66,9 +66,9 @@ CPU or GPU via JAX.)
 │   ├── interfaces/
 │   └── quadruped_pympc_wrapper.py  ← unified controller wrapper
 ├── simulation/
-│   └── simulation.py               ← main entrypoint, MuJoCo loop,
-│                                      WaypointNavigator class
-└── installation/                   ← setup recipes (mamba, docker)
+    └── simulation.py               ← main entrypoint, MuJoCo loop,
+                                      WaypointNavigator class
+
 ```
 
 ---
