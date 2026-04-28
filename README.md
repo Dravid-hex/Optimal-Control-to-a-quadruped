@@ -2,10 +2,10 @@
 
 
 David Alejandro Soni Cuevas 		A01571777<br>
-David Gilberto Lomelí Leal 		A01571193
-Abraham de Jesus Maldonado Mata	 A00838581
-Irvin David Ornelas Garcia 		A00839065
-Carla Elizabeth Regalado Luna		A00837070
+David Gilberto Lomelí Leal 		A01571193<br>
+Abraham de Jesus Maldonado Mata	 A00838581<br>
+Irvin David Ornelas Garcia 		A00839065<br>
+Carla Elizabeth Regalado Luna		A00837070<br>
 
 Waypoint-based trajectory generation and tracking for the Unitree Go2 quadruped
 in MuJoCo, using the PyMPC controller stack. The robot follows a predefined
