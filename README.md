@@ -365,7 +365,7 @@ controllers on the same trajectory.
 | Documentation and GitHub presentation           | This README is the report; layout in §2; configuration knobs centralized in `config.py`; quickstart in §1              |
 
 ### 6.7 Plots
-All the plots can be found in [plots](./plots/)
+All the graphs can be found in [plots](./plots/)
 
 ---
 
